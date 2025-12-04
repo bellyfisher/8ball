@@ -1,0 +1,12 @@
+body {
+    background-color: #370031;
+}
+
+h1 {
+    color: #85B09A;
+    filter: drop-shadow(5px 5px 5px #317873);
+}
+
+img {
+    padding-bottom: 35px;
+}
