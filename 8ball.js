@@ -18,42 +18,55 @@ function shakeMagic8Ball(){
     switch(randomNumber){
         case 0:
         answer = 'Yes!'
-        image = 'yes.png'
+        image = 'yes2.png'
         color = 'text-success';
+break;
+
 
         case 1:
         answer = 'Signs are pointing to Yes.'
-        image = 'okay.png'
+        image = 'signs.webp'
         color = 'text-success';
+break;
+
 
         case 2:
         answer = 'You may rely on it.'
         image = 'maybe.png'
         color = 'text-success';
+break;
+
         
         case 3:
         answer = 'Pretty Much.'
         image = 'sure.png'
         color = 'text-secondary';
+break;
+
 
         case 4:
         answer = 'Hazy answer..'
         image = 'hazy.png'
         color = 'text-warning';
+break;
+
 
         case 5:
         answer = 'Do not count on it..'
         image = 'wouldnt.png'
         color = 'text-warning';
+break;
+
 
         case 6:
         answer = 'Signs point towards no..'
         image = 'prollynot.png'
         color = 'text-danger';
+break;
 
         case 7:
-        answer = 'No.'
-        image = 'no.png'
+        answer = 'The outlook is not so good...'
+        image = 'not.gif'
         color = 'text-danger';
         break;
     }
