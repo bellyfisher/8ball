@@ -25,14 +25,14 @@ break;
 
         case 1:
         answer = 'Signs are pointing to Yes.'
-        image = 'signs.webp'
+        image = 'pointing.png'
         color = 'text-success';
 break;
 
 
         case 2:
         answer = 'You may rely on it.'
-        image = 'maybe.png'
+        image = 'rely.png'
         color = 'text-success';
 break;
 
@@ -53,7 +53,7 @@ break;
 
         case 5:
         answer = 'Do not count on it..'
-        image = 'wouldnt.png'
+        image = 'count.png'
         color = 'text-warning';
 break;
 
